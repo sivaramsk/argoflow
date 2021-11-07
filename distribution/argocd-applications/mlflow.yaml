@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/sivaramsk/argoflow.git
-    targetRevision: ea66c31
+    targetRevision: aa394ae
     path: distribution/mlflow
   syncPolicy:
     automated:
